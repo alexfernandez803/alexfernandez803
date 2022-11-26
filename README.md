@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <h3 align="center">An experienced Integration developer using Mulesoft, a backend developer and on the side frontend and animation enthusiast.</h3>
 
 - 🌱 I’m currently learning **Remotion, Kotlin** 
-
 - 💬 Ask me about **react, typescript, mulesoft**
+- 📫 For consulting work reach me at **alex.fernandez90000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
