@@ -1,17 +1,6 @@
 <!--
 **alexfernandez803/alexfernandez803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 <h1 align="center">Hi 👋, I'm Alex Fernandez</h1>
@@ -20,6 +9,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Remotion, Kotlin** 
 - 💬 Ask me about **react, typescript, mulesoft**
 - 📫 For consulting work reach me at **alex.fernandez90000@gmail.com**
+
+
+
+# You can help me buy buying me a coffee.
+<p>
+<a href="https://www.buymeacoffee.com/alexfernandez"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=alexfernandez&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
