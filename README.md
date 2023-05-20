@@ -11,8 +11,7 @@
 <p>
 <a href="https://www.buymeacoffee.com/alexfernandez"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=alexfernandez&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 </p>
-
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'Y8Y8I8R7D');kofiwidget2.draw();</script> 
+<a href='https://ko-fi.com/Y8Y8I8R7D' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
