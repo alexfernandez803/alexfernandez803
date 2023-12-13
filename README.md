@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Remotion, Kotlin** 
 - 💬 Ask me about **react, typescript, mulesoft**
-- 📫 For consulting work reach me at **azdigitalau@gmail.com**
 
 # Support me.
 <p>
