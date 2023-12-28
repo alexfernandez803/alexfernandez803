@@ -3,12 +3,12 @@
 <h3 align="left">Hi 👋, I'm Alex Fernandez</h3>
 <h5 align="left">An experienced Integration developer using Mulesoft, a backend developer and on the side frontend and animation enthusiast.</h5>
 
-- 🌱 I’m currently learning **Remotion, Kotlin** 
+- 🌱 I’m currently learning **Remotion** 
 - 💬 Ask me about **react, typescript, mulesoft**
 
 # Support me.
 <p>
-<a href="https://www.buymeacoffee.com/alexfernandez"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=alexfernandez&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/alexfernandez"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=alexfernandez&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </p>
 <a href='https://ko-fi.com/Y8Y8I8R7D' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
